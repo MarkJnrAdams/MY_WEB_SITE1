@@ -14,6 +14,8 @@ public class App{
     ave = sum/3;
     System.out.println();
     System.out.println("i love u");
+    System.out.println("daddy loves you");
+
 
 
 
