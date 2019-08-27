@@ -8,6 +8,7 @@ public class App{
     System.out.println("enter the second number ");
     num2 = myscanner.nextDouble();
     System.out.println("enter the th number ");
+    System.out.println("my name is young alhaji");
     num3 = myscanner.nextDouble();
     sum = num1 + num2 + num3;
     ave = sum/3;
