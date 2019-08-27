@@ -13,6 +13,8 @@ public class App{
     sum = num1 + num2 + num3;
     ave = sum/3;
     System.out.println();
+    System.out.println("i love u");
+
 
 
 
